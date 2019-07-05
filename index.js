@@ -18,9 +18,9 @@ run = async () => {
   try {
     await repo.createGitignore();
 
-    repo.createEditorConfig();
+    await repo.createEditorConfig();
 
-    directories.createFolderStructure();
+    await directories.createFolderStructure();
 
   } catch (error) {
     console.log(chalk.red(error));
