@@ -28,7 +28,7 @@ $ cd project-example && rft
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
 >Created By **[daniloanobre](https://www.linkedin.com/in/danilo-assis-nobre-dos-santos-silva-7b2735143/)** 2019.
 
